@@ -1,1 +1,3 @@
-# docs
+# Atlantis DEX Documentation
+
+Coming soon.
